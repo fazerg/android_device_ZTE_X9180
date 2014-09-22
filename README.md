@@ -1,4 +1,4 @@
-Test device configuration for the ZTE V5 V9180
+Test device configuration for the ZTE V5 X9180
 
 ===============================
 
